@@ -1,5 +1,5 @@
 
-<b>Nuyul BuzzBreak Using Termux: </b>
+<b>How to Nuyul BuzzBreak Using Termux: </b>
 
  <b>Install</b> <a href="https://adsafelink.com/vqblfSOd"><b>BuzzBreak.Apk</b></a>
  
@@ -12,7 +12,9 @@
   
   <code> pkg update && pkg install git && git clone https://github.com/XTuyul/BuzzBreak && cd BuzzBreak && pkg install php &&  php bot.php</code>
  
- <b>to get Device id and Token Facebook Install</b> <a href="https://adsafelink.com/5NBO3YkH1"><b>App Clone.Apk</b></a>
+ <b>to get Device id and Token Facebook..  Install</b> <a href="https://adsafelink.com/5NBO3YkH1"><b>App Clone.Apk</b></a>
+
+Credit To : <i>@Adidoank http://t.me/tuyulgaple</i>
  
 
 
